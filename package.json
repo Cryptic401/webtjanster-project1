@@ -1,0 +1,25 @@
+{
+  "name": "stuga",
+  "version": "1.0.0",
+  "description": "school project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cryptic401/webtjanster-project1.git"
+  },
+  "author": "Wille Strengell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cryptic401/webtjanster-project1/issues"
+  },
+  "homepage": "https://github.com/Cryptic401/webtjanster-project1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
